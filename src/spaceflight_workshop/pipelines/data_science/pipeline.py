@@ -31,5 +31,5 @@ from .nodes import evaluate_model, split_data, train_model
 
 
 def create_pipeline(**kwargs):
-    # TODO-6 Build a data science pipeline here.
+    # TODO-5 Build a data science pipeline here.
     return Pipeline([])
