@@ -69,7 +69,7 @@ Please use this checklist to make sure you have everything necessary to particip
 
 - [ ] You have installed [Kedro](#kedro)
 
-- [ ] You have [downloaded the `kedro-training` repository](#kedro-training-code)
+- [ ] You have downloaded this `spaceflight_workshop` repository
 
 - [ ] You have [a code editor](#code-editor) installed for writing Python code
 
